@@ -26,4 +26,10 @@ Features
   * return button for easy changing of option selections
   * easily modified and expandable layout
   * Checking for windows to be filled at the entranceы
-  
+
+
+  [!photo1](https://github.com/Romercor/Cafe_App/blob/main/2.png)
+  [!photo2](https://github.com/Romercor/Cafe_App/blob/main/3.png)
+  [!photo3](https://github.com/Romercor/Cafe_App/blob/main/5.png)
+  [!photo4](https://github.com/Romercor/Cafe_App/blob/main/4.png)
+  [!photo5](https://github.com/Romercor/Cafe_App/blob/main/6.png)
