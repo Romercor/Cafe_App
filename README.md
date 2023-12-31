@@ -2,6 +2,7 @@
 
 An android app for online ordering in a cafe. Initially conceived as a layout that can be easily adjusted to the customer's needs thanks to the OOP structure
 
+
 Technologies:
 
   Android Studio
@@ -9,6 +10,7 @@ Technologies:
   Java for backend
 
   XMLS for frontend
+
 
 
 Functional:
